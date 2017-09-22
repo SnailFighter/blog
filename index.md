@@ -1,4 +1,4 @@
-## java并发/多线程翻译
+# java并发/多线程翻译
 
 [原文](http://tutorials.jenkov.com/java-concurrency/index.html)
 
@@ -6,7 +6,13 @@
 ### [多线程的有点](https://snailfighter.github.io/translator/advantage)
 ### [多线程的缺点](https://snailfighter.github.io/translator/disadvantage)
 ### [并发模型](https://snailfighter.github.io/translator/concurrent-module)
-### [同线程模型](https://snailfighter.github.io/translator/samethread)
+### [同线程模型](https://snailfighter.github.io/translator/samethread)  
+
+  
+    
+    
+# Redis配置
+### [redis配置](https://snailfighter.github.io/translator/redisconf)  
 
 
 
