@@ -5,7 +5,7 @@
 ### [java并发-序](https://snailfighter.github.io/translator/java-summary)
 ### [多线程的有点](https://snailfighter.github.io/translator/advantage)
 ### [多线程的缺点](https://snailfighter.github.io/translator/disadvantage)
-### [多线程模型](https://snailfighter.github.io/translator/concurrent-module)
+### [并发模型](https://snailfighter.github.io/translator/concurrent-module)
 
 
 
