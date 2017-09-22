@@ -3,10 +3,10 @@
 
 Back in the old days a computer had a single CPU, and was only capable of executing a single program at a time. Later came multitasking which meant that computers could execute multiple programs (AKA tasks or processes) at the same time. It wasn't really "at the same time" though. The single CPU was shared between the programs. The operating system would switch between the programs running, executing each of them for a little while before switching.  
 
-==回顾计算机单核时代，计算机载某一时刻只能执行一个程序。随后出现的多任务处理能在同一时刻执行多个程序（AKA 任务或者进程），尽管不是真正意义上的同一时刻。单个CPU可以在多个进程间共享。操作系统从这些运行的进程，执行每一个进程一小段时间在CPU转换任务前。==
+回顾计算机单核时代，计算机载某一时刻只能执行一个程序。随后出现的多任务处理能在同一时刻执行多个程序（AKA 任务或者进程），尽管不是真正意义上的同一时刻。单个CPU可以在多个进程间共享。操作系统从这些运行的进程，执行每一个进程一小段时间在CPU转换任务前。
 
 Along with multitasking came new challenges for software developers. Programs can no longer assume to have all the CPU time available, nor all memory or any other computer resources. A "good citizen" program should release all resources it is no longer using, so other programs can use them.  
-==随着多任务处理的到来，对于开发人员带来了新的挑战。进程不再占用所有的CPU、内存或者其他计算机资源。一个好的进程应该释放所有它不再使用的资源，这样其他进程就可以使用了。==
+随着多任务处理的到来，对于开发人员带来了新的挑战。进程不再占用所有的CPU、内存或者其他计算机资源。一个好的进程应该释放所有它不再使用的资源，这样其他进程就可以使用了。
 
 Later yet came multithreading which mean that you could have multiple threads of execution inside the same program. A thread of execution can be thought of as a CPU executing the program. When you have multiple threads executing the same program, it is like having multiple CPUs execute within the same program.  
 ==随后到来的多线程可以在同一个进程中执行多个线程。一个执行的线程可理解为一个证在被CPU执行的进程，但你以后多个线程在同一个进程中执行的话，就像有个多个CPU处理同一个进程。==
