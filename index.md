@@ -7,6 +7,7 @@
 ### [多线程的缺点](https://snailfighter.github.io/translator/disadvantage)
 ### [并发模型](https://snailfighter.github.io/translator/concurrent-module)
 ### [同线程模型](https://snailfighter.github.io/translator/samethread)  
+### [并发并行的对比](https://snailfighter.github.io/translator/vsboth)  
 
   
     
