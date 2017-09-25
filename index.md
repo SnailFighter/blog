@@ -8,6 +8,7 @@
 ### [并发模型](https://snailfighter.github.io/translator/concurrent-module)
 ### [同线程模型](https://snailfighter.github.io/translator/samethread)  
 ### [并发并行的对比](https://snailfighter.github.io/translator/vsboth)  
+### [线程的创建于运行](https://snailfighter.github.io/translator/createstart)  
 
   
     
