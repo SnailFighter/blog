@@ -10,7 +10,7 @@
 ### [并发并行的对比](https://snailfighter.github.io/translator/vsboth)  
 ### [线程的创建与运行](https://snailfighter.github.io/translator/createstart)  
 ### [竞争状态与临界区](https://snailfighter.github.io/translator/condition)  
-### [线程安全与贡献资源](https://snailfighter.github.io/translator/saftandshare)  
+### [线程安全与共享资源](https://snailfighter.github.io/translator/saftandshare)  
 ### [线程安全与不变性](https://snailfighter.github.io/translator/saftandimmu)
 
 
