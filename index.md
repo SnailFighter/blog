@@ -13,6 +13,7 @@
 ### [线程安全与共享资源](https://snailfighter.github.io/translator/saftandshare)  
 ### [线程安全与不变性](https://snailfighter.github.io/translator/saftandimmu)
 ### [Java内存模型](https://snailfighter.github.io/translator/memorymodel)
+### [synchronized](https://snailfighter.github.io/translator/synchronized)
 
 
     
