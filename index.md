@@ -15,6 +15,7 @@
 ### [Java内存模型](https://snailfighter.github.io/translator/memorymodel)
 ### [synchronized](https://snailfighter.github.io/translator/synchronized)
 ### [volatile](https://snailfighter.github.io/translator/volatile)
+### [ThreadLocal](https://snailfighter.github.io/translator/ThreadLocal)
 
 
     
