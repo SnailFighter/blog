@@ -8,7 +8,8 @@
 [并发模型](https://snailfighter.github.io/translator/concurrent-module) | [同线程模型](https://snailfighter.github.io/translator/samethread) | [并发并行的对比](https://snailfighter.github.io/translator/vsboth) 
 [线程的创建与运行](https://snailfighter.github.io/translator/createstart) | [竞争状态与临界区](https://snailfighter.github.io/translator/condition) | [线程安全与共享资源](https://snailfighter.github.io/translator/saftandshare) 
 [线程安全与不变性](https://snailfighter.github.io/translator/saftandimmu) | [Java内存模型](https://snailfighter.github.io/translator/memorymodel) | [synchronized](https://snailfighter.github.io/translator/synchronized) 
-[volatile](https://snailfighter.github.io/translator/volatile) |[ThreadLocal](https://snailfighter.github.io/translator/ThreadLocal) | [线程通信](https://snailfighter.github.io/translator/threadSinglling)
+[volatile](https://snailfighter.github.io/translator/volatile) |[ThreadLocal](https://snailfighter.github.io/translator/ThreadLocal) | [线程通信](https://snailfighter.github.io/translator/threadSinglling) 
+[死锁](https://snailfighter.github.io/translator/deadlock) | [避免死锁](https://snailfighter.github.io/translator/avoiddeadlock)
 
 
 
