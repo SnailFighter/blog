@@ -10,7 +10,7 @@
 [线程安全与不变性](https://snailfighter.github.io/translator/saftandimmu) | [Java内存模型](https://snailfighter.github.io/translator/memorymodel) | [synchronized](https://snailfighter.github.io/translator/synchronized) 
 [volatile](https://snailfighter.github.io/translator/volatile) |[ThreadLocal](https://snailfighter.github.io/translator/ThreadLocal) | [线程通信](https://snailfighter.github.io/translator/threadSinglling) 
 [死锁](https://snailfighter.github.io/translator/deadlock) | [避免死锁](https://snailfighter.github.io/translator/avoiddeadlock) | [饥饿锁与公平锁](https://snailfighter.github.io/translator/hangry_fair_lock) 
-[死锁](https://snailfighter.github.io/translator/deadlock) | [避免死锁](https://snailfighter.github.io/translator/avoiddeadlock) | [饥饿锁与公平锁](https://snailfighter.github.io/translator/hangry_fair_lock) 
+[嵌套监视锁](https://snailfighter.github.io/translator/nested_monitor_lock) 
 
 
 
