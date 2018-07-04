@@ -23,6 +23,9 @@
 # Redis配置
 ### [redis配置](https://snailfighter.github.io/translator/redisconf)  
 
+# nginx.conf配置
+###
+
 
 
 
